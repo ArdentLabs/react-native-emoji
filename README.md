@@ -1,5 +1,7 @@
 # React Native Emoji
 
+> This is a fork off of `jorilallo/react-native-emoji` because of [issue #19](https://github.com/jorilallo/react-native-emoji/issues/19)
+
 Emoji as React Native component
 
 ```JSX

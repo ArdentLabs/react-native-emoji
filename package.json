@@ -1,11 +1,11 @@
 {
-  "name": "react-native-emoji",
+  "name": "@ardentlabs/react-native-emoji",
   "version": "1.2.0",
   "description": "Emoji component for React Native",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jorilallo/react-native-emoji.git"
+    "url": "git+ssh://git@github.com/ardentlabs/react-native-emoji.git"
   },
   "keywords": [
     "react-native",
